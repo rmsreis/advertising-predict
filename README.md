@@ -3,7 +3,11 @@
 -------------------------------------------------
 
 This is an example of simple linear regression model to predict sales and revenue using Python. 
-I employed scikit-learn module for calculating the linear regression, while using pandas for data management, and seaborn for plotting. 
+I employed scikit-learn module for calculating the linear regression, while using pandas for data management, and seaborn for plotting.
+
+The first dataset 
+
+in the second part I will work with the advertising data of a marketing agency to develop a machine learning algorithm that predicts if a particular user will click on an advertisement.
 
 ### Simple Linear Regression
 ------------------------------------------------
@@ -21,7 +25,9 @@ Here the `\beta_j`'s are unknown parameters or coefficients, and the variables `
 
 ### Dataset:
 -------------------------------------------------
-The adverstiting dataset captures sales revenue generated with respect to advertisement spends across multiple channles like radio, tv and newspaper. <a href='http://faculty.marshall.usc.edu/gareth-james/'> Source</a>
+1. The adverstiting dataset captures sales revenue generated with respect to advertisement spends across multiple channles like radio, tv and newspaper. <a href='http://faculty.marshall.usc.edu/gareth-james/'> Source</a>
+
+2. The second dataset consists of 10 variables: 'Daily Time Spent on Site', 'Age', 'Area Income', 'Daily Internet Usage', 'Ad Topic Line', 'City', 'Male', 'Country', Timestamp' and 'Clicked on Ad'. <a href='https://www.kaggle.com/fayomi/advertising/download'> Source</a>
 
 
 robertomsreis@gmail.com
