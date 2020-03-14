@@ -16,6 +16,7 @@ We have an input vector $X^T = (X_1, X_2,...,X_p)$ , and want to predict a real-
 $f(x) = \beta_0 + \sum_{j=1}^p X_j \beta_j$.
 
 The linear model either assumes that the regression function $E(Y|X)$ is linear, or that the linear model is a reasonable approximation.
+
 Here the $\beta_j$'s are unknown parameters or coefficients, and the variables $X_j$ can come from different sources. No matter the source of $X_j$, the model is linear in the parameters.
 
 
