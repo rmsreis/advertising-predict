@@ -23,8 +23,6 @@ Here the `\beta_j`'s are unknown parameters or coefficients, and the variables `
 -------------------------------------------------
 The adverstiting dataset captures sales revenue generated with respect to advertisement spends across multiple channles like radio, tv and newspaper. <a href='http://faculty.marshall.usc.edu/gareth-james/'> Source</a>
 
-##### contact:
--------------------------------------------------
 
 robertomsreis@gmail.com
 
