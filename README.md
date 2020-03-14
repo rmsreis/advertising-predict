@@ -1,6 +1,6 @@
 # Predict Sales Revenue with scikit-learn
-
 -------------------------------------------------
+
 This is an example of simple linear regression model to predict sales and revenue using Python. 
 I employed scikit-learn module for calculating the linear regression, while using pandas for data management, and seaborn for plotting. 
 
@@ -10,7 +10,7 @@ Explain the core ideas of linear regression to technical and non-technical audie
 
 Linear Regression is a useful tool for predicting a quantitative response.
 
-We have an input vector $X^T = (X_1, X_2,...,X_p)$, and want to predict a real-valued output $Y$. The linear regression model has the form.
+We have an input vector $X^T = (X_1, X_2,...,X_p)$ , and want to predict a real-valued output $Y$. The linear regression model has the form.
 
 $f(x) = \beta_0 + \sum_{j=1}^p X_j \beta_j$.
 
@@ -27,9 +27,6 @@ Evaluate a simple linear regression model using appropriate metrics
 
 You will be working with the very popular Advertising data set to predict sales revenue based on 
 The dataset consists of advertising spending through mediums such as TV, radio, and newspaper.
-
-
-
 
 
 
