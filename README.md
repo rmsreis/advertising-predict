@@ -1,5 +1,5 @@
 
-## Predict Sales Revenue with scikit-learn
+## Predict Sales Revenue/Customer Ad Clicks with scikit-learn
 -------------------------------------------------
 
 This is an example of simple linear regression model to predict sales and revenue using Python. 
