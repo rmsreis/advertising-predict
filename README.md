@@ -39,7 +39,7 @@ J.R. Quinlan. C4. 5: programs for machine learning. Morgan Kaufmann, 1993.
 
 T. Hastie, R. Tibshirani and J. Friedman. Elements of Statistical Learning, Springer, 2009.
 
-### Dataset:
+### Datasets:
 -------------------------------------------------
 1. The adverstiting dataset captures sales revenue generated with respect to advertisement spends across multiple channles like radio, tv and newspaper. <a href='http://faculty.marshall.usc.edu/gareth-james/'> Source</a>.
 
