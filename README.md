@@ -22,6 +22,8 @@ The linear model either assumes that the regression function `E(Y|X)` is linear,
 
 Here the `\beta_j`'s are unknown parameters or coefficients, and the variables `X_j` can come from different sources. No matter the source of `X_j`, the model is linear in the parameters.
 
+
+
 ### Decision Tree 
 ------------------------------------------------
 
