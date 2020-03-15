@@ -52,5 +52,6 @@ T. Hastie, R. Tibshirani and J. Friedman. Elements of Statistical Learning, Spri
 2. The second dataset consists of 10 variables: 'Daily Time Spent on Site', 'Age', 'Area Income', 'Daily Internet Usage', 'Ad Topic Line', 'City', 'Male', 'Country', Timestamp' and 'Clicked on Ad'. <a href='https://www.kaggle.com/fayomi/advertising/download'> Source</a>.
 
 
-<b>contact:</b> robertomsreis@gmail.com
+<b>email:</b> robertomsreis@gmail.com
+<b> Twitter:</b> @robertomsreis
 
