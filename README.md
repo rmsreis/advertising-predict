@@ -58,7 +58,7 @@ Coded in Python using Jupyter Notebook:
 2 - ad_click_linear_and_DT.ipynb (Linear Regression and Decision Tree)
 
 
-<b>email:</b> robertomsreis@gmail.com
+<b>E-mail:</b> robertomsreis@gmail.com
 
-<b> Twitter:</b> @robertomsreis
+<b>Twitter:</b> @robertomsreis
 
