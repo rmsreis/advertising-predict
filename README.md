@@ -46,6 +46,7 @@ T. Hastie, R. Tibshirani and J. Friedman. Elements of Statistical Learning, Spri
 
 ### Datasets:
 -------------------------------------------------
+
 1. The adverstiting dataset captures sales revenue generated with respect to advertisement spends across multiple channles like radio, tv and newspaper. <a href='http://faculty.marshall.usc.edu/gareth-james/'> Source</a>.
 
 2. The second dataset consists of 10 variables: 'Daily Time Spent on Site', 'Age', 'Area Income', 'Daily Internet Usage', 'Ad Topic Line', 'City', 'Male', 'Country', Timestamp' and 'Clicked on Ad'. <a href='https://www.kaggle.com/fayomi/advertising/download'> Source</a>.
@@ -57,6 +58,8 @@ Coded in Python using Jupyter Notebook:
 
 2 - ad_click_linear_and_DT.ipynb (Linear Regression and Decision Tree)
 
+
+<b> Contact: </b>
 
 <b>E-mail:</b> robertomsreis@gmail.com
 
